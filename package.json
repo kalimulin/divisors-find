@@ -1,0 +1,14 @@
+{
+  "name": "divisors-find",
+  "version": "1.0.0",
+  "description": "Пакет принимает натуральное число и возвращает список его делителей",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "divisors"
+  ],
+  "author": "Rustam Kalimulin",
+  "license": "ISC"
+}
