@@ -1,6 +1,6 @@
 {
   "name": "divisors-find",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Пакет принимает натуральное число и возвращает список его делителей",
   "main": "index.js",
   "scripts": {
