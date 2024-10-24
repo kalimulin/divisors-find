@@ -23,6 +23,4 @@ function divisors (n) {
     return result.sort((a, b) => a - b)
 }
 
-console.log(divisors(1.2))
-
 module.exports = divisors
